@@ -1,7 +1,7 @@
 CrashReport-Opt-out
 ===================
 
-This repository allows you to opt-in or opt-out of automatic CrashReports. Please understand that this service is RESTful and your change won't be acknowledged until a crash is reported.
+This repository allows you to opt-in or opt-out of automatic CrashReports. Please understand that this service is RESTful and your change won't be applied until a crash is reported.
 
 [__opt-out__](https://github.com/PocketMine-CrashReport/CrashReport-Opt-out/issues/new?title=opt-out)
 In order to opt-out your account out of CrashReports you must create an issue (in this repository) with the title "opt-out". Once the change is applied the issue will be closed by our account. The bot will look at all open issues, so if you need to be opted out again just reopen the old issue. If you change your mind just close the issue before the bot gets to it.
