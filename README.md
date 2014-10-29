@@ -1,5 +1,7 @@
-CrashReport-Opt-out
+CrashReport-Opt-out 
 ===================
+
+**Crash Engine is no longer hosted and this service isn't offered.**
 
 This repository allows you to opt-in or opt-out of automatic CrashReports. Please understand that this service is RESTful and your change won't be applied until a crash is reported.
 
